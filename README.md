@@ -10,10 +10,11 @@
 - Descripcion: Una aplicacion tipo ecommerce que vende licores a nacional
 - Idea: Jesus Rodriguez
 - Capitan: Santiago(Dictador)
-- equipo:
+- Equipo:
   - Santiago Arraez - [github@Santiagoarraez](https://github.com/Santiagoarraez)
   - Jesus Rodriguez - [github@Jesuse2r](https://github.com/Jesuse2r)
   - Raul - [github@rjalvarez27](https://github.com/rjalvarez27)
+- [Repo](https://github.com/Santiagoarraez/flask-proyecto-final)
 
 ## Sistema de gestion de hotel
 
@@ -23,27 +24,30 @@
 - Equipo
   - Patricia - [github@patriciaacpd](https://github.com/patriciaacpd)
   - Kris - [github@khriscito](https://github.com/khriscito)
-  - Otoniel
+  - Otoniel - [github@Xzelta](https://github.com/Xzelta)
+- [Repo](https://github.com/khriscito/ProyectoFinal)
 
 ## Aplicacion donde se puedan juntar grupos creativos(enfocados en musica)
 
 - Descripcion: Los grupos pueden discutir los avances en proyectos, donde pueden comentar, crear y editar versiones de la cancion(GitMusic)
 - Idea: Reynaldo
 - Capitan: Reynaldo
-- equipo:
+- Equipo:
   - Reynaldo - [github@Bostonrex](https://github.com/Bostonrex)
   - Cristhian - [github@NikoDemo96](https://github.com/NikoDemo96)
   - Pedro - [github@fiticostini](https://github.com/fiticostini)
+- [Repo](https://github.com/bostonrex/vvversions)
 
 ## Aplicacion de intercambio de juego fisicos de diferentes consolas
 
 - Descripcion, el usuario puede subir que consola tiene, que juegos tiene y el proceso por el que va del juego, para asi poder intercambiar juegos con otros miembros de la comunidad
 - Idea: Jose Hernandez
 - Capitan: Diego Arraez
-- equipo:
+- Equipo:
   - Jesus Gomez
   - Diego Arraez - [github@Diegoarraez10](https://github.com/Diegoarraez10)
   - Jose Hernandez - [github@Itsjosehernandez](https://github.com/Itsjosehernandez)
+- [Repo](https://github.com/Diegoarraez10/flask-proyecto-final-DJJ)
 
 ## Ideas para proximos proyectos
 
